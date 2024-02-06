@@ -1,1 +1,1 @@
-# head-first-design-patterns
+# design-patterns
