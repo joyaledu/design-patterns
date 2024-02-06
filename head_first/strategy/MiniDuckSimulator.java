@@ -1,4 +1,4 @@
-package strategy;
+package head_first.strategy;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

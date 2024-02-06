@@ -1,4 +1,4 @@
-package strategy;
+package head_first.strategy;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
